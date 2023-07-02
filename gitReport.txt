@@ -1,0 +1,10 @@
+1. Github account
+2. Empty Repo. local system
+3. git config --global user.name "  "
+   git config --global user.email "  "
+4. git push -u origin master
+5.1. username? -> loveBabbar
+5.2. password?
+      personal token -> ghp_wsqZocNaU04bRUcSNF5Kh21
+
+
